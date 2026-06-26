@@ -1,2 +1,3 @@
 This is for BranchB
 commit 1
+commit 2
